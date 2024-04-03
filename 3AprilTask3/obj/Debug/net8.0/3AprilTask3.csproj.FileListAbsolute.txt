@@ -1,0 +1,14 @@
+C:\Users\resul\Desktop\3AprilTask3\bin\Debug\net8.0\3AprilTask3.exe
+C:\Users\resul\Desktop\3AprilTask3\bin\Debug\net8.0\3AprilTask3.deps.json
+C:\Users\resul\Desktop\3AprilTask3\bin\Debug\net8.0\3AprilTask3.runtimeconfig.json
+C:\Users\resul\Desktop\3AprilTask3\bin\Debug\net8.0\3AprilTask3.dll
+C:\Users\resul\Desktop\3AprilTask3\bin\Debug\net8.0\3AprilTask3.pdb
+C:\Users\resul\Desktop\3AprilTask3\obj\Debug\net8.0\3AprilTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\Desktop\3AprilTask3\obj\Debug\net8.0\3AprilTask3.AssemblyInfoInputs.cache
+C:\Users\resul\Desktop\3AprilTask3\obj\Debug\net8.0\3AprilTask3.AssemblyInfo.cs
+C:\Users\resul\Desktop\3AprilTask3\obj\Debug\net8.0\3AprilTask3.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\3AprilTask3\obj\Debug\net8.0\3AprilTask3.dll
+C:\Users\resul\Desktop\3AprilTask3\obj\Debug\net8.0\refint\3AprilTask3.dll
+C:\Users\resul\Desktop\3AprilTask3\obj\Debug\net8.0\3AprilTask3.pdb
+C:\Users\resul\Desktop\3AprilTask3\obj\Debug\net8.0\3AprilTask3.genruntimeconfig.cache
+C:\Users\resul\Desktop\3AprilTask3\obj\Debug\net8.0\ref\3AprilTask3.dll
